@@ -1,0 +1,19 @@
+.users{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: space-around;
+    padding: 20px;
+}
+.center{
+    text-align: center;
+    font-size: 32px;
+    font-weight: 800;
+}
+.container{
+    width: 300px;
+    p{
+        font-size: 20px;
+    }
+}
